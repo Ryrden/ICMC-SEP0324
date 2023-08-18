@@ -109,11 +109,11 @@ A partir da figura rica, elaboramos um texto que descreve a situação, ponto de
 
 Exemplo:
 
-![Exemplo](exemplo01Aula01.png)
+![Exemplo](img/exemplo01Aula01.png)
 
 Figura rica elaborada:
 
-![Figura rica](exemplo02Aula01.png)
+![Figura rica](img/exemplo02Aula01.png)
 
 #### Video 4
 
@@ -185,6 +185,7 @@ Um problema de natureza administrativa é chamado de Situação problemática
 Como representar uma figura rica:
 
 <!-- TODO: Adicionar imagem -->
+![Exemplo sala de aula](img/exemplo03Aula01.jpg)
 
 **Note:** Não há um padrão para representar mas há uma estrutura recomendada
 
