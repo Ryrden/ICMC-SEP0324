@@ -1,6 +1,32 @@
 # Introdução SSM/Situação problemática
 
-## Definição de Elementos
+## Tabela de conteúdos
+
+- [Introdução SSM/Situação problemática](#introdução-ssmsituação-problemática)
+  - [Tabela de conteúdos](#tabela-de-conteúdos)
+  - [Antes da Aula](#antes-da-aula)
+    - [Definição de Elementos](#definição-de-elementos)
+    - [Videos](#videos)
+      - [Video 1](#video-1)
+      - [Video 2](#video-2)
+      - [Video 3](#video-3)
+      - [Video 4](#video-4)
+  - [Aula](#aula)
+    - [Situação problemática](#situação-problemática)
+      - [Destruturada](#destruturada)
+      - [Expressa](#expressa)
+    - [Casos](#casos)
+    - [Glossário](#glossário)
+    - [Situação problemática desestruturada](#situação-problemática-desestruturada)
+      - [Estrutura da situação](#estrutura-da-situação)
+      - [Processo da situação](#processo-da-situação)
+      - [Clima da situação](#clima-da-situação)
+      - [Figuras ricas](#figuras-ricas)
+    - [Situação problemática expressa](#situação-problemática-expressa)
+
+## Antes da Aula
+
+### Definição de Elementos
 
 - Metodologia de sistemas soft aborda problemas administrativos complexos.
 
@@ -23,9 +49,9 @@
 | Clima da situação     | Visa compreender as atitudes dos indivíduos em relação às suas atividades, inseridas em uma organização social |
 | Figuras ricas         | Representar através de um desenho os relacionamentos entre os elementos apresentados                           |
 
-## Videos
+### Videos
 
-### Video 1
+#### Video 1
 
 A 1º questão a metodologia de sistema soft tenta diferenciar é a diferença entre a abordagem Hard x Soft
 
@@ -61,11 +87,11 @@ A partir deste modelo de Kolb surgiu o modelo de 7 etapas da metodologia de sist
 6. Mudanças possíveis e desejáveis (agir)
 7. Ações para melhorar a situação problemática (agir)
 
-### Video 2
+#### Video 2
 
 Discussão com alunos da disciplina sobre a Metodoogia de Sistemas Soft
 
-### Video 3
+#### Video 3
 
 Apresentação da primeira etapa da metodologia de sistemas soft
 
@@ -89,7 +115,7 @@ Figura rica elaborada:
 
 ![Figura rica](exemplo02Aula01.png)
 
-## Video 4
+#### Video 4
 
 Abordagem das figuras ricas
 
@@ -107,3 +133,78 @@ Figuras ricas permitem identificar:
 
 A ideia da figura rica é que ela seja desenvolvida naturalmente
 
+## Aula
+
+### Situação problemática
+
+Um problema de natureza administrativa é chamado de Situação problemática
+
+#### Destruturada
+
+- Estrutura da situação
+- Processo da situação
+- Clima da situação
+- Figura rica
+
+#### Expressa
+
+- Declaração da situação problemática expressa através de uma questão
+
+### Casos
+
+1. Descentralização à vista
+2. Hyperledger
+
+### Glossário
+
+- **NFT:** Token não fungível é um símbolo eletrônico criado em uma plataforma blockchain para representar algum bem considerado único.
+- **DAO:** Organização autônoma descentralizada é uma entidade governada por uma comunidade online cujas regras são definidas por contratos inteligentes.
+- **Blockchain:** É um livro razão imutável e compartilhado que facilita as transações e o controle de ativos em uma rede de negócios
+  - Ativo pode ser tangível ou intangível
+
+### Situação problemática desestruturada
+
+#### Estrutura da situação
+  
+- Web 3.0 trata de operações descentralizadas e seguras, não necessita de grandes empresas para intermediação.
+- As autoridades centrais e estrutura top-down serão desnecessárias
+  
+#### Processo da situação
+
+- NFTs tem a capacidade de remover as autoridades centrais de maneira transparente e segura e rastreável.
+- DMV registro de automóveis
+- Crossmint permite a compra de NFTs com cartão de crédito
+
+#### Clima da situação
+
+- Desconhecimento sobre o uso da tecnologia
+- Pessimismo grande por não conseguirem prever o que poderá ocorrer
+
+#### Figuras ricas
+
+Como representar uma figura rica:
+
+<!-- TODO: Adicionar imagem -->
+
+**Note:** Não há um padrão para representar mas há uma estrutura recomendada
+
+Dividir em 3 partes:
+
+- Organização
+- Uso da tecnologia
+- Ambiente
+
+Responder Questões:
+
+Aqui depende da semântica da situação problemática, mas o padrão de perguntas a serem feitas deve seguir o padrão 3W (What, How, Why)
+
+- What: O que é a situação problemática? (Definir conceitos iniciais)
+- How: Como a situação problemática pode impactar a organização? (Definir questões de impacto no problema em questão)
+- Why: Por que a situação problemática é importante? (Definir questões de importância dos conceitos inicias em âmbito da organização)
+
+### Situação problemática expressa
+
+Como promover o processo de descentralização de empresas utilizando blockchain?
+
+- Ciclo de aprendizado de Kolb
+- Visão de mundo
