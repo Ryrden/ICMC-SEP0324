@@ -11,7 +11,7 @@
       - [Video 2](#video-2)
       - [Video 3](#video-3)
       - [Video 4](#video-4)
-  - [Aula](#aula)
+  - [Durante a Aula](#durante-a-aula)
     - [Situação problemática](#situação-problemática)
       - [Destruturada](#destruturada)
       - [Expressa](#expressa)
@@ -133,7 +133,7 @@ Figuras ricas permitem identificar:
 
 A ideia da figura rica é que ela seja desenvolvida naturalmente
 
-## Aula
+## Durante a Aula
 
 ### Situação problemática
 
