@@ -21,6 +21,10 @@
         - [Situação Problemática Expressa](#situação-problemática-expressa)
         - [Exemplo - CATWOE](#exemplo---catwoe)
         - [Exemplo - PQR](#exemplo---pqr)
+  - [Durante a Aula](#durante-a-aula)
+    - [Caso NFTs Têm outro lado benéfico](#caso-nfts-têm-outro-lado-benéfico)
+      - [Caso NFTs: CATWOE](#caso-nfts-catwoe)
+      - [Caso NFTs: PQR](#caso-nfts-pqr)
 
 ## Antes da Aula
 
@@ -145,3 +149,31 @@ Como Alterar o protocolo de Segurança da Casa Branca para viabilizar o trabalho
 ##### Exemplo - PQR
 
 ![PQR Diagram](img/aula02exemplo05.png)
+
+## Durante a Aula
+
+- A aula tratará sobre o CATWOE e PQR
+
+### Caso NFTs Têm outro lado benéfico
+
+Situação problemática expressa da aula anterior:
+
+Como promover o processo de descentralização de empresas utilizando blockchain ?
+
+> Nessa fase é importante identificar como os diferentes elementos interagem.
+
+- Sistemas de Atividades Humanas (SAH) antecede a própria solução de blockchain.
+  - São as atividades das pessoas que determinarão a efetividade de solução
+  
+#### Caso NFTs: CATWOE
+
+- C: empresas / usuários
+- A: desenvolvedores da solução
+- T: adotar uma estrutura de registro em blockchain para a autenticidade e exclusividade de NFTs
+- W: garantir a segurança das transações, a partir de contratos inteligentes, sem autoridades centrais
+- O: responsável(s) pelo contrato inteligente
+- E: há uma comprensão limitada do conjunto de ações que os proprietários de NFTs podem exercer e a infraestrutura necessária, a pesar de estar disponível, é cara.
+
+#### Caso NFTs: PQR
+
+Implantar a estrutura blockchain **P** para facilitar transações **Q** sem a necessidade de autoridades centrais **R**.
